@@ -1,0 +1,1 @@
+api.key.wang.nytimes <- "dHDGwfGbEhUDPvKcljJXqAo8igmJ18QC"
